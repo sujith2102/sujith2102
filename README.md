@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sujith2102
-- 👀 I’m interested in ... programming
+- 👋 Hi, I’m @sujith2102😎
+- 👀 I’m interested in ... programming 👩‍💻
 - 🌱 I’m currently learning ...python 
 - 📫 How to reach me ...beesasujithkumar@gmail.com
 
